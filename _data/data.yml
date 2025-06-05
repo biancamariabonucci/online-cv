@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Biancamaria Bonucci
   tagline: PhD student in Gene Technology
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: Screenshot 2025-06-05 at 16.31.57.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: biancamaria.bonucci@ut.ee
@@ -32,7 +32,7 @@ sidebar:
       level: Professional
 
     - idiom: Spanish
-      level: Professional
+      level: Basic
 
   #interests:
   #  title: Interests
@@ -52,38 +52,23 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Biancamaria is a Doctoral Researcher in the Archaeogenomics group, 
+    at the Institute of Genomics in the University of Tartu. Her main 
+    interest is in the study of oral microbiome and oral microbial ecology of individuals 
+    from different times and populations through the extraction of aDNA and proteins from 
+    human dental calculus. She also works on other sources of aDNA (soil, bones, vessels) 
+    and is involved in the development of new wet lab protocols for aDNA studies.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+  - degree: MSc (Hons) in Genetics and Molecular Biology
+    university: Sapienza University of Rome
+    time: 2018-2021
+    
+  - degree: BSc (Hons) in Biological Sciences
+    university: Sapienza University of Rome
+    time: 2015-2018
+    
 experiences:
   title: Experiences
   info:
@@ -91,15 +76,10 @@ experiences:
     time: 2015 - Present
     company: Startup Hubs, San Francisco
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      The main objective of the doctoral project is to assess the impact of cultural 
+      differences on the quantitative and qualitative structure of the oral microbiome 
+      within groups of European populations, from the Neolithic to post-industrial period .
+      I am developing the wet lab protocols and analysing the sequenced data with in-house and published pipelines.
         - Bullet point
         - Bullet point
   - role: Senior Software Engineer
@@ -230,45 +210,45 @@ publications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+#recommendations:
+#  title: Recommendations
+#  list:
+ # - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+ #   recommendation: |
+# #     Alan Doe is a super employee!
+#  - person: Lara Henderson
+#    email: larah@example.com
+#    phone: 012 345 6789
+  #  role: General Director at example.com
+  #  recommendation: |
+   #   I would like to work with Alan Doe again!
 
-      He is a great employee!
+   #   He is a great employee!
 
-skills:
-  title: Skills &amp; Proficiency
+#skills:
+#  title: Skills &amp; Proficiency
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+#  toolset:
+#  - name: Python & Django
+#    level: 98%
+#
+##  - name: Javascript & jQuery
+#    level: 98%
+#
+#  - name: Angular
+ #   level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+ # - name: HTML5 & CSS
+ #   level: 95%
+#
+  #- name: Ruby on Rails
+ #   level: 85%
+#
+#  - name: Sketch & Photoshop
+#    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
