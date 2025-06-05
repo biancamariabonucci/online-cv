@@ -15,9 +15,9 @@ sidebar:
   # Sidebar links
   email: biancamaria.bonucci@ut.ee
   timezone: Eastern Daylight Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  website: https://biancamariabonucci.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+  website: # Include the full website URL, including "http://" or "https://".
   github: https://github.com/biancamariabonucci
-  bluesky: '‪@bbonucci.bsky.social‬' # Specify your full Bluesky handle
+  bluesky: '‪‪@bbonucci.bsky.social‬' # Specify your full Bluesky handle
   twitter: '@Bonucci_B'
   ORCID: https://orcid.org/0009-0001-3292-3446
 
@@ -70,40 +70,46 @@ education:
     time: 2015-2018
     
 experiences:
-  title: Experiences
+  title: Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Doctoral researcher
+    time: September 2021 - Present
+    company: Estonian Biocentre, Institute of Genomics, University of Tartu
     details: |
       The main objective of the doctoral project is to assess the impact of cultural 
       differences on the quantitative and qualitative structure of the oral microbiome 
       within groups of European populations, from the Neolithic to post-industrial period .
       I am developing the wet lab protocols and analysing the sequenced data with in-house and published pipelines.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Erasmus+ Trainee
+    time: April - July 2021
+    company: Estonian Biocentre, Institute of Genomics, University of Tartu
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Introduction to Ancient DNA Methods
+      Traineeship Program: Learn how to produce ancient DNA NGS data from skeletal materials 
+      by working in the ancient DNA lab alongside the lab technician; learn basic bioinformatic 
+      analysis for processing DNA NGS data. The work was mainly focused on ancient dental calculus samples.
+  - role: Postgraduate Researcher
+    time: February - April 2021
+    company: Sapienza University of Rome
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Postgraduate Research Scholarship funded by the Pasteur Institute Italy-Cenci Bolognetti Foundation
+      The project involved the analysis of experimental data generated through Next- Generation Sequencing (NGS).
+  - role: Paid intern at Sapienza Museum Network (Polo Museale)
+    time: 2018 - 2019
+    company: Sapienza University of Rome
+    details: |
+      The activity included support of structured staff during events and conventions in which the 
+      University was involved, the organisation of events related with the Museums of the University as well 
+      as the creation and maintenance of the website of the Museum Network (Polo Museale) of Sapienza University.
+  - role: Paid intern at Sapienza Anthropology Museum
+    time: 2017 - 2018
+    company: Sapienza University of Rome
+    details: |
+      The work activity was carried out at the Museum of Anthropology, Department of Environmental Biology 
+      and involved computerised cataloging of bone specimens and materials, as well as conducting guided 
+      tours within the museum.
+
+        
 
 certifications:
   title: Certifications
