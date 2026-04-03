@@ -129,10 +129,10 @@ projects:
   intro: >
     Here, a list of the main projects I have been collaborating to in these years.
   assignments:
-  - title: Estonian Roots: Centre of Excellence for transdisciplinary studies on ethnogenesis and cultural diversity
+  - title: "Estonian Roots: Centre of Excellence for transdisciplinary studies on ethnogenesis and cultural diversity"
     link: "https://sisu.ut.ee/eestijuured/"
     tagline: "Role: Produce and analyse ancient metagenomics data from dental calculus."
-  - title: Making Ancestors: The Politics of Death in Prehistoric Europe
+  - title: "Making Ancestors: The Politics of Death in Prehistoric Europe"
     link: "https://www.theancestorsproject.org/"
     tagline: "Role: Extract and analyze aDNA and proteins from ancient dental calculus; Perform target enrichment for Yersinia pestis; Perform pilot study for protocol development; Coordinate samples shipments between partners."
   - title: Tobacco Health and History project
@@ -141,14 +141,6 @@ projects:
   - title: "Ancient DNA protocol collection – University of Tartu, Institute of Genomics"
     link: "https://dx.doi.org/10.17504/protocols.io.n92ldzbd8v5b/v1"
     tagline: "Collaborated in the writing and checking of some of the protocols in the collection. Ongoing project."
-  
-  #- title: Atom
-   # link: "#"
-    #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
- # - title: Delta
-  #  link: "#"
-  #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 publications:
@@ -198,16 +190,16 @@ skills:
 
   toolset:
   - name: R
-   level: 75%
-   
+    level: 75%
+
   - name: Bash
-   level: 60%
+    level: 60%
 
   - name: HPCs
-   level: 50%
+    level: 50%
 
   - name: Python
-   level: 40%
+    level: 40%
 
 ##  - name: Javascript & jQuery
 #    level: 98%
