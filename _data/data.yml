@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: biancamaria.bonucci@ut.ee
-  timezone: Eastern European Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Eastern European # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   website: # Include the full website URL, including "http://" or "https://".
   github: biancamariabonucci
   bluesky: "@bbonucci.bsky.social" # Specify your full Bluesky handle
