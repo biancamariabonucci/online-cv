@@ -71,20 +71,29 @@ education:
     
   - degree: BSc (Hons) in Biological Sciences
     university: Sapienza University of Rome
-    thesis: Evaluation of a cladogram-based method for Y-chromosome haplogroup assignment from microsatellite data.
     time: 2015-2018
     
 experiences:
   title: Experience
   info:
-  - role: Doctoral researcher
-    time: September 2021 - Present
+  - role: Junior Research Fellow of Ancient DNA
+    time: November 2021 - Present
     company: Estonian Biocentre, Institute of Genomics, University of Tartu
     details: |
       The main objective of the doctoral project is to assess the impact of cultural 
       differences on the quantitative and qualitative structure of the oral microbiome 
       within groups of European populations, from the Neolithic to post-industrial period .
-      I am developing the wet lab protocols and analysing the sequenced data with in-house and published pipelines.
+      Development of wet lab protocols for aDNA and proteins extraction from ancient dental calculus 
+      and other substrates and analysis of ancient metagenomics sequencing data using in-house and 
+      published pipelines.
+  - role: Visiting Scholar
+    time: June - August 2025
+    company: microARCH Lab, Department of Anthropology, The Pennsilvania State University
+    details: |
+      Internship program:
+      Learning how to use the in-house pipeline for the analysis of shotgun metagenomics data;
+      Learning how to conduct multivariate statistical analysis on data from ancient and modern dental calculus;
+      Collaborating on ongoing projects.
   - role: Erasmus+ Trainee
     time: April - July 2021
     company: Estonian Biocentre, Institute of Genomics, University of Tartu
@@ -93,7 +102,7 @@ experiences:
       Traineeship Program: Learn how to produce ancient DNA NGS data from skeletal materials 
       by working in the ancient DNA lab alongside the lab technician; learn basic bioinformatic 
       analysis for processing DNA NGS data. The work was mainly focused on ancient dental calculus samples.
-  - role: Postgraduate Researcher
+  - role: Research Assistant
     time: February - April 2021
     company: Sapienza University of Rome
     details: |
@@ -105,64 +114,67 @@ experiences:
     details: |
       The activity included support of structured staff during events and conventions in which the 
       University was involved, the organisation of events related with the Museums of the University as well 
-      as the creation and maintenance of the website of the Museum Network (Polo Museale) of Sapienza University.
+      as the development and maintenance of the website of the Museum Network (Polo Museale) of Sapienza University.
   - role: Paid intern at Sapienza Anthropology Museum
     time: 2017 - 2018
     company: Sapienza University of Rome
     details: |
       The work activity was carried out at the Museum of Anthropology, Department of Environmental Biology 
-      and involved computerised cataloging of bone specimens and materials, as well as conducting guided 
+      and involved creating a digital catalogue of bone specimens and materials, as well as conducting guided 
       tours within the museum.
 
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Here, a list of the main projects I have been collaborating to in these years.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Estonian Roots: Centre of Excellence for transdisciplinary studies on ethnogenesis and cultural diversity
+    link: "https://sisu.ut.ee/eestijuured/"
+    tagline: "Role: Produce and analyse ancient metagenomics data from dental calculus."
+  - title: Making Ancestors: The Politics of Death in Prehistoric Europe
+    link: "https://www.theancestorsproject.org/"
+    tagline: "Role: Extract and analyze aDNA and proteins from ancient dental calculus; Perform target enrichment for Yersinia pestis; Perform pilot study for protocol development; Coordinate samples shipments between partners."
+  - title: Tobacco Health and History project
+    link: "https://www.tobaccohealthhistory.co.uk/"
+    tagline: "Role: Collaborator of the project. Extract DNA from ancient dental calculus; analyze data from ancient and modern dental calculus."
+  - title: "Ancient DNA protocol collection – University of Tartu, Institute of Genomics"
+    link: "https://dx.doi.org/10.17504/protocols.io.n92ldzbd8v5b/v1"
+    tagline: "Collaborated in the writing and checking of some of the protocols in the collection. Ongoing project."
+  
+  #- title: Atom
+   # link: "#"
+    #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+ # - title: Delta
+  #  link: "#"
+  #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    A list of selected publications.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: "Co-occurrence of Yersinia pestis and other zoonoses during European prehistory"
+    link: "http://dx.doi.org/10.64898/2026.02.20.707102"
+    authors: "Toni de-Dios, Biancamaria Bonucci, Jess Emma Thompson, Sofia Panella , Remi Barbieri, Marcel Keller, Tina Saupe, Sara Bernardini, Stefania Sasso , Madeleine Thirolle, Anu Solnik, Helja Kabral , Biancamaria Aranguren , Montserrat Sanz, Joan Daura, Carles Lalueza-Fox, Toomas Kivisild, Mait Metspalu, Meriam Guellil, Mary Anne Tafuri, John Robb, Christiana Lyn Scheib"
+    conference: "bioRxiv"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: "AncientMetagenomeDir dating metadataset highlights need for standardised radiocarbon reporting in ancient DNA"
+    link: "https://doi.org/10.64898/2026.02.06.704039"
+    authors: "Katherine Hearne, Diāna Spurīte, Alexander Hübner, Biancamaria Bonucci, Yuejiao Huang, Bjørn Peare Bartholdy, Piotr Rozwalak, Lorena Becerra-Valdivia, Maxime Borry, Davide Bozzi, Anastasia Brativnyk, Jodie Brunt, Nihan D. Dagtas, Toni de-Dios, Cameron Ferguson, Jasmin Frangenberg, Benjamin Guinet, Magdalena Haller-Caskie, Reed Harder, Iseult Jackson, Chenyu Jin, Marcel Keller, Arthur Kocher, Ian Light-Maka, Maria Lopopolo, Frederik Lutz, Megan Michel, Denis Jorge Nunes Yamunaque, Kadir Özdogan, Zoé Pochon, Darío A. Ramirez, Maximilian L. Schumacher, Gabriel Yaxal Ponce-Soto, Nikolaos Psonis, Tom Richtermeier, Lennart Schreiber, Pooja Swali, Cathy Ngọc Hân Trần, Irina M. Velsko, Christina Warinner, Anna E. White, Giulia Zampirolo, James A. Fellows Yates, Aida Andrades Valtueña"
+    conference: "bioRxiv"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
+  - title: "Bone Adhered Sediments as a Source of Target and Environmental DNA and Proteins"
+    link: "https://doi.org/10.1093/molbev/msaf202"
+    authors: "Toni de-Dios , Biancamaria Bonucci , Rémi Barbieri , Alena Kushniarevich , Eugenia D’Atanasio , Jenna Dittmar , Craig Cessford , Anu Solnik , John E Robb , Christina Warinner , Ester Oras , Christiana L Scheib"
+    conference: "Molecular Biology and Evolution, Volume 42, Issue 9, September 2025"
+    
+  - title: "Ancient microbial DNA and proteins preserve in concretions covering human remains"
+    link: "http://dx.doi.org/10.1016/j.isci.2025.113182"
+    authors: "Biancamaria Bonucci, Toni de-Dios, Remi Barbieri, Jess Emma Thompson, Sofia Panella, Francesca Radina, Sandra Sivilli, Helja Kabral, Anu Solnik, Mary Anne Tafuri, John Robb, Christiana L Scheib"
+    conference: "IScience, Volume 28, Issue 8113182, August 2025"
 #recommendations:
 #  title: Recommendations
 #  list:
@@ -181,13 +193,22 @@ publications:
 
    #   He is a great employee!
 
-#skills:
-#  title: Skills &amp; Proficiency
+skills:
+  title: Skills &amp; Proficiency
 
-#  toolset:
-#  - name: Python & Django
-#    level: 98%
-#
+  toolset:
+  - name: R
+   level: 75%
+   
+  - name: Bash
+   level: 60%
+
+  - name: HPCs
+   level: 50%
+
+  - name: Python
+   level: 40%
+
 ##  - name: Javascript & jQuery
 #    level: 98%
 #
