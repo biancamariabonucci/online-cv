@@ -156,24 +156,24 @@ publications:
   intro: |
     A list of selected publications.
   papers:
-  - title: "Co-occurrence of Yersinia pestis and other zoonoses during European prehistory"
+  - title: Co-occurrence of Yersinia pestis and other zoonoses during European prehistory
     link: "http://dx.doi.org/10.64898/2026.02.20.707102"
-    authors: "Toni de-Dios, Biancamaria Bonucci, Jess Emma Thompson, Sofia Panella , Remi Barbieri, Marcel Keller, Tina Saupe, Sara Bernardini, Stefania Sasso , Madeleine Thirolle, Anu Solnik, Helja Kabral , Biancamaria Aranguren , Montserrat Sanz, Joan Daura, Carles Lalueza-Fox, Toomas Kivisild, Mait Metspalu, Meriam Guellil, Mary Anne Tafuri, John Robb, Christiana Lyn Scheib"
+    authors: Toni de-Dios, Biancamaria Bonucci, Jess Emma Thompson, Sofia Panella , Remi Barbieri, Marcel Keller, Tina Saupe, Sara Bernardini, Stefania Sasso , Madeleine Thirolle, Anu Solnik, Helja Kabral , Biancamaria Aranguren , Montserrat Sanz, Joan Daura, Carles Lalueza-Fox, Toomas Kivisild, Mait Metspalu, Meriam Guellil, Mary Anne Tafuri, John Robb, Christiana Lyn Scheib
     conference: "bioRxiv"
 
-  - title: "AncientMetagenomeDir dating metadataset highlights need for standardised radiocarbon reporting in ancient DNA"
+  - title: AncientMetagenomeDir dating metadataset highlights need for standardised radiocarbon reporting in ancient DNA
     link: "https://doi.org/10.64898/2026.02.06.704039"
-    authors: "Katherine Hearne, Diāna Spurīte, Alexander Hübner, Biancamaria Bonucci, Yuejiao Huang, Bjørn Peare Bartholdy, Piotr Rozwalak, Lorena Becerra-Valdivia, Maxime Borry, Davide Bozzi, Anastasia Brativnyk, Jodie Brunt, Nihan D. Dagtas, Toni de-Dios, Cameron Ferguson, Jasmin Frangenberg, Benjamin Guinet, Magdalena Haller-Caskie, Reed Harder, Iseult Jackson, Chenyu Jin, Marcel Keller, Arthur Kocher, Ian Light-Maka, Maria Lopopolo, Frederik Lutz, Megan Michel, Denis Jorge Nunes Yamunaque, Kadir Özdogan, Zoé Pochon, Darío A. Ramirez, Maximilian L. Schumacher, Gabriel Yaxal Ponce-Soto, Nikolaos Psonis, Tom Richtermeier, Lennart Schreiber, Pooja Swali, Cathy Ngọc Hân Trần, Irina M. Velsko, Christina Warinner, Anna E. White, Giulia Zampirolo, James A. Fellows Yates, Aida Andrades Valtueña"
+    authors: Katherine Hearne, Diāna Spurīte, Alexander Hübner, Biancamaria Bonucci, Yuejiao Huang, Bjørn Peare Bartholdy, Piotr Rozwalak, Lorena Becerra-Valdivia, Maxime Borry, Davide Bozzi, Anastasia Brativnyk, Jodie Brunt, Nihan D. Dagtas, Toni de-Dios, Cameron Ferguson, Jasmin Frangenberg, Benjamin Guinet, Magdalena Haller-Caskie, Reed Harder, Iseult Jackson, Chenyu Jin, Marcel Keller, Arthur Kocher, Ian Light-Maka, Maria Lopopolo, Frederik Lutz, Megan Michel, Denis Jorge Nunes Yamunaque, Kadir Özdogan, Zoé Pochon, Darío A. Ramirez, Maximilian L. Schumacher, Gabriel Yaxal Ponce-Soto, Nikolaos Psonis, Tom Richtermeier, Lennart Schreiber, Pooja Swali, Cathy Ngọc Hân Trần, Irina M. Velsko, Christina Warinner, Anna E. White, Giulia Zampirolo, James A. Fellows Yates, Aida Andrades Valtueña
     conference: "bioRxiv"
 
-  - title: "Bone Adhered Sediments as a Source of Target and Environmental DNA and Proteins"
+  - title: Bone Adhered Sediments as a Source of Target and Environmental DNA and Proteins
     link: "https://doi.org/10.1093/molbev/msaf202"
-    authors: "Toni de-Dios , Biancamaria Bonucci , Rémi Barbieri , Alena Kushniarevich , Eugenia D’Atanasio , Jenna Dittmar , Craig Cessford , Anu Solnik , John E Robb , Christina Warinner , Ester Oras , Christiana L Scheib"
+    authors: Toni de-Dios , Biancamaria Bonucci , Rémi Barbieri , Alena Kushniarevich , Eugenia D’Atanasio , Jenna Dittmar , Craig Cessford , Anu Solnik , John E Robb , Christina Warinner , Ester Oras , Christiana L Scheib
     conference: "Molecular Biology and Evolution, Volume 42, Issue 9, September 2025"
     
-  - title: "Ancient microbial DNA and proteins preserve in concretions covering human remains"
+  - title: Ancient microbial DNA and proteins preserve in concretions covering human remains
     link: "http://dx.doi.org/10.1016/j.isci.2025.113182"
-    authors: "Biancamaria Bonucci, Toni de-Dios, Remi Barbieri, Jess Emma Thompson, Sofia Panella, Francesca Radina, Sandra Sivilli, Helja Kabral, Anu Solnik, Mary Anne Tafuri, John Robb, Christiana L Scheib"
+    authors: Biancamaria Bonucci, Toni de-Dios, Remi Barbieri, Jess Emma Thompson, Sofia Panella, Francesca Radina, Sandra Sivilli, Helja Kabral, Anu Solnik, Mary Anne Tafuri, John Robb, Christiana L Scheib
     conference: "IScience, Volume 28, Issue 8113182, August 2025"
 #recommendations:
 #  title: Recommendations
