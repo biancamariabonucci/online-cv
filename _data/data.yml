@@ -10,11 +10,11 @@ sidebar:
   # Profile information
   name: Biancamaria Bonucci
   tagline: PhD student in Gene Technology
-  avatar: Screenshot 2025-06-05 at 16.31.57.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: _64A6659.JPC.1.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: biancamaria.bonucci@ut.ee
-  timezone: Eastern Daylight Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Eastern Europe Summer Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   website: # Include the full website URL, including "http://" or "https://".
   github: https://github.com/biancamariabonucci
   bluesky: '‪‪@bbonucci.bsky.social‬' # Specify your full Bluesky handle
