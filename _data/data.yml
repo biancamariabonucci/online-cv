@@ -52,21 +52,26 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Biancamaria is a Doctoral Researcher in the Archaeogenomics group, 
-    at the Institute of Genomics in the University of Tartu. Her main 
-    interest is in the study of oral microbiome and oral microbial ecology of individuals 
-    from different times and populations through the extraction of aDNA and proteins from 
-    human dental calculus. She also works on other sources of aDNA (soil, bones, vessels) 
-    and is involved in the development of new wet lab protocols for aDNA studies.
+   Biancamaria is a Doctoral Researcher in the Archaeogenomics group, 
+   in the Estonian Biocentre (Institute of Genomics, University of Tartu). 
+   Her main interest is to assess the impact of cultural differences and habits on the quantitative 
+   and qualitative structure of the oral microbiome within groups of modern and ancient European populations, 
+   from the Neolithic to post-industrial period, through the analysis of ancient DNA (aDNA) and proteins from 
+   dental calculus. She also works on projects that focus on the study of the spread of diseases. She is involved 
+   in the development of new wet lab protocols for aDNA studies.
 education:
   title: Education
   info:
+  - degree: PhD student in Gene Technology
+    university: University of Tartu
+    time: 2021-Present
   - degree: MSc (Hons) in Genetics and Molecular Biology
     university: Sapienza University of Rome
     time: 2018-2021
     
   - degree: BSc (Hons) in Biological Sciences
     university: Sapienza University of Rome
+    thesis: Evaluation of a cladogram-based method for Y-chromosome haplogroup assignment from microsatellite data.
     time: 2015-2018
     
 experiences:
